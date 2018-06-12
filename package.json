@@ -1,0 +1,23 @@
+{
+  "name": "gitbook-web",
+  "version": "1.0.0",
+  "description": "web gitbook",
+  "main": "index.js",
+  "directories": {
+    "doc": "doc"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "server": "http-server -p 9999"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/qiahao/gitbook-web.git"
+  },
+  "author": "qiahao <404546074@qq.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/qiahao/gitbook-web/issues"
+  },
+  "homepage": "https://github.com/qiahao/gitbook-web#readme"
+}
